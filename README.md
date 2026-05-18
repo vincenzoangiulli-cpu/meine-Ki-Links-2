@@ -1,5 +1,5 @@
 # meine-Ki-Links-2
 
-   - ChatGPT
-   - Claude
-   - Perplexity
+   - ChatGPT - https://chatgpt.com/
+   - Claude - https://claude.ai/new
+   - Perplexity - https://www.perplexity.ai/
