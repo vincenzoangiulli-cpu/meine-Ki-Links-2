@@ -1,4 +1,4 @@
-# meine-Ki-Links-2
+# Meine-Ki-Links
 
    - [ChatGPT](https://chatgpt.com/)
    - [Claude](https://claude.ai/new)
