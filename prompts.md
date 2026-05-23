@@ -7,4 +7,4 @@ Formuliere die folgende E-Mail freundlicher und professioneller:
 Fasse den folgenden Text in 3 Stichpunkten zusammen:
 
 ## Ideen sammeln
-Gib mir 10 Ideen zum Thema:
+Gib mir 10 Ideen zum Thema ki:
