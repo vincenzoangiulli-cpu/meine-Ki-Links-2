@@ -7,4 +7,5 @@
 ## Dayli
    - [Claude](https://claude.ai/new)
 
-
+## Meine Prompts
+Hier findest du meine Lieblings-Prompts: [prompts.md](prompts.md)
